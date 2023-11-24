@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DORIMOS FAMILY</title>
+	<atom:link href="https://zaa0v0.github.io/dorimos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zaa0v0.github.io/dorimos</link>
+	<description></description>
+	<lastBuildDate>Fri, 20 Oct 2023 03:36:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://zaa0v0.github.io/dorimos/wp-content/uploads/2023/10/HitzeedCHYT.jpg</url>
+	<title>DORIMOS FAMILY</title>
+	<link>https://zaa0v0.github.io/dorimos</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apa itu Hacker? Berikut adalah Definisi, Jenis, dan Cara Menghindarinya!</title>
+		<link>https://zaa0v0.github.io/dorimos/2023/10/20/apa-itu-hacker-berikut-adalah-definisi-jenis-dan-cara-menghindarinya/</link>
+					<comments>https://zaa0v0.github.io/dorimos/2023/10/20/apa-itu-hacker-berikut-adalah-definisi-jenis-dan-cara-menghindarinya/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 03:36:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zaa0v0.github.io/dorimos/?p=13</guid>
+
+					<description><![CDATA[Serangan hacker adalah mimpi buruk semua pemilik website. Itulah mengapa setidaknya Anda harus punya wawasan dasar tentang apa itu hacker. Sebab, kerugian yang ditimbulkan dari serangan hack tidak sedikit lho. Contohnya, jika Anda punya toko online, bisa saja hacker mencuri data pribadi pelanggan, data nomor rekening, dan data penting lainnya. Menyeramkan sekali, bukan?&#160; Tapi tak [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" fetchpriority="high" width="1110" height="592" src="https://zaa0v0.github.io/dorimos/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-10-at-11.20.07-1.jpeg" alt="" class="wp-image-14"/></figure>
+
+
+
+<p>Serangan hacker adalah mimpi buruk semua pemilik website. Itulah mengapa setidaknya Anda harus punya wawasan dasar tentang apa itu hacker.</p>
+
+
+
+<p>Sebab, kerugian yang ditimbulkan dari serangan hack tidak sedikit lho. Contohnya, jika Anda punya toko online, bisa saja hacker mencuri data pribadi pelanggan, data nomor rekening, dan data penting lainnya. Menyeramkan sekali, bukan?&nbsp;</p>
+
+
+
+<p>Tapi tak usah khawatir. Di artikel ini, kami akan menjelaskan apa itu hacker, jenis-jenis hacker, hingga cara mencegah serangan hack. Tentunya info ini sayang sekali jika Anda lewatkan begitu saja.</p>
+
+
+
+<h2 class="wp-block-heading">Apa itu Hacker?&nbsp;</h2>
+
+
+
+<p>Hacker adalah seseorang yang mampu menerobos sistem keamanan komputer atau jaringan komputer berbekalkan skill pemrograman yang mumpuni. Tujuannya pun bermacam-macam, mulai dari mengetes sistem keamanan hingga melakukan tindak kriminal.&nbsp;</p>
+
+
+
+<p>Tindakan hacker yang merugikan pihak tertentu merupakan tindakan kriminal. Contohnya seperti mencuri data pribadi pada website toko online untuk diperjual-belikan.</p>
+
+
+
+<p>Lebih ekstremnya lagi, hacker dapat mengancam dan meminta tebusan untuk mengembalikan website seperti semula.&nbsp;</p>
+
+
+
+<p>Sementara itu, ada pula hacker yang dimanfaatkan untuk tindakan legal. Misalnya seperti menguji sistem keamanan data perusahaan tertentu.</p>
+
+
+
+<p>Nah, di artikel ini, serangan hacker yang akan dibahas adalah serangan hacker yang merugikan pemilik website.&nbsp;</p>
+
+
+
+<p>Memang biasanya hacker mengincar website-website milik pemerintahan, perbankan, lembaga keuangan, atau perusahaan besar lainnya.&nbsp;</p>
+
+
+
+<p>Namun, jangan salah! Riset tahun 2019, ternyata&nbsp;<a href="https://smallbiztrends.com/2019/05/2019-small-business-cyber-attack-statistics.html" target="_blank" rel="noreferrer noopener">43% cyber attack</a>&nbsp;juga menyasar website bisnis kecil. Itu artinya, semua pemilik bisnis online perlu waspada terhadap serangan hacker. Motifnya, tentu saja mencari keuntungan sebanyak-banyaknya.</p>
+
+
+
+<h2 class="wp-block-heading">Apa Saja Jenis Hacker di Luar Sana?</h2>
+
+
+
+<p>Ternyata, ada banyak jenis hacker di dunia ini dengan tujuan yang berbeda-beda pula. Apa saja?</p>
+
+
+
+<ul>
+<li><strong>Black Hat Hacker&nbsp;</strong>—<strong>&nbsp;</strong>Ini adalah jenis hacker yang paling dikenal dan harus Anda waspadai. Black Hat Hacker adalah hacker yang melakukan aktivitas ilegal. Mulai dari meretas sistem, mencuri data, menyebarkan malware, memata-matai, dan masih banyak lainnya.</li>
+
+
+
+<li><strong>White Hat Hacker&nbsp;&nbsp;</strong>—<strong>&nbsp;</strong>Jenis hacker ini menggunakan keahlian meretasnya untuk mengevaluasi kelemahan suatu sistem. Sehingga keamananya bisa ditingkatkan lagi dan aman dari serangan hacker lain.</li>
+
+
+
+<li><strong>Blue Hat Hacker&nbsp;&nbsp;</strong>—<strong>&nbsp;</strong>Jenis ini hampir mirip dengan White Hat Hacker. Bedanya, Blue Hat Hacker adalah hacker pihak ketiga yang bekerjasama dengan perusahaan untuk menemukan titik lemah di sistemnya.</li>
+
+
+
+<li><strong>Grey Hat Hacker&nbsp;&nbsp;</strong>—<strong>&nbsp;</strong>Hacker ini adalah jenis hacker yang sering melakukan aktivitas tidak etis, tapi masih belum melanggar hukum. Misalnya, sengaja meretas suatu sistem dan hanya akan diperbaiki jika diberi imbalan.</li>
+
+
+
+<li><strong>Red Hat Hacker&nbsp;&nbsp;</strong>—<strong>&nbsp;</strong>Dikenal juga dengan sebutan Hacktivism, jenis hacker ini melakukan peretasan karena ingin menyampaikan pesan. Entah itu ideologis, politik, sosial, atau agama. Contoh Red Hacker yang terkenal adalah Anonymous atau WikiLeaks.</li>
+
+
+
+<li><strong>Script Kiddies&nbsp;&nbsp;</strong>—<strong>&nbsp;</strong>Jenis hacker ini hanya bisa melakukan aktivitasnya menggunakan script yang diciptakan oleh orang lain. Efeknya, Script Kiddies biasanya diremehkan di kalangan hacker. Namun, tindakan yang mereka lakukan tetap saja merugikan orang lain.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">8 Jenis Serangan Hacker yang Wajib Anda Waspadai!</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="975" height="348" src="https://zaa0v0.github.io/dorimos/wp-content/uploads/2023/10/image.png" alt="" class="wp-image-15"/></figure>
+
+
+
+<p>Untuk mengetahui lebih detail seperti apa serangan hacker, mari simak uraian di bawah ini. Berikut ini jenis-jenis serangan hacker yang kerap kali dilakukan oleh para hacker:</p>
+
+
+
+<h3 class="wp-block-heading">1. Denial of Service (DoS)&nbsp;</h3>
+
+
+
+<p>Serangan Denial of Service (DoS) adalah serangan terhadap server website Anda. Jika website Anda terkena serangan ini, pengunjung website Anda tidak akan bisa mengakses website Anda. Hal itu karena serangan ini akan membanjiri trafik pada server website Anda sehingga server&nbsp;<em>overload</em>.</p>
+
+
+
+<p>Biasanya serangan ini merupakan serangan awalan. Setelah website Anda lumpuh, hacker akan meluncurkan serangan berbeda lainnya. Salah satu yang paling umum adalah serangan&nbsp;<strong>session hijacking.&nbsp;</strong><em>(akan dibahas di pembahasan berikutnya).</em></p>
+
+
+
+<h3 class="wp-block-heading">2. Man in the Middle (MitM)</h3>
+
+
+
+<p>Dari namanya, serangan jenis ini membuat hacker dapat berada di jalur komunikasi antara website Anda dengan server. Hacker jadi dapat mengetahui semua informasi dari transfer data yang terjadi antara website dan server. Salah satu jenis dari serangan ini adalah session hijacking.&nbsp;</p>
+
+
+
+<p>Session hijacking merupakan pembajakan terhadap website Anda, sehingga hacker dapat terhubung dengan server Anda. Ketika website Anda lumpuh, hacker bisa mengendalikannya dan mengubah alamat IP komputer Anda dengan IP komputer hacker.&nbsp;</p>
+
+
+
+<p>Alhasil hacker mendapatkan akses ke server Anda. Yang lebih berbahaya adalah, data-data Anda dapat dicuri oleh hacker tersebut.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">3. Malware&nbsp;</h3>
+
+
+
+<p>Serangan Malware merupakan jenis serangan yang masuk ke sistem aplikasi maupun website melalui file, aplikasi, maupun website yang Anda buka. Misalnya Anda membuka link tertentu. Kemudian secara otomatis terdapat aplikasi yang terinstall secara otomatis. Di dalam aplikasi itulah hacker menyisipkan malware.&nbsp;</p>
+
+
+
+<p>Jika serangan malware ini berhasil masuk ke sistem, data penting Anda bisa diambil atau disalahgunakan. Beberapa jenis serangan malware yang populer adalah Ransomware,&nbsp;<a href="https://www.niagahoster.co.id/blog/cara-kerja-trojan/" target="_blank" rel="noreferrer noopener">Trojan</a>, Spyware, dan Macro Virus. Untuk mengetahui lebih detail tentang Malware Anda bisa baca artikel tentang&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">4. Drive-by Attack</h3>
+
+
+
+<p>Serangan Drive-by sebenarnya masih berkaitan dengan serangan malware. Serangan ini merupakan metode yang biasanya digunakan untuk melancarkan aksi serangan malware.&nbsp;</p>
+
+
+
+<p>Hacker akan mencari website yang tidak aman untuk menyisipkan skrip berbahaya ke dalam kode HTTP atau PHP salah satu halaman. Dalam skrip tersebut kemungkinan telah disisipi malware yang bisa terinstall di komputer pengguna.&nbsp;</p>
+
+
+
+<p>Tak hanya mengincar website yang keamanannya lemah, serangan ini juga mengincar sistem operasi ataupun browser. Biasanya hacker akan memanfaatkan kelemahan sistem karena sistem keamanannya belum terupdate.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">5. Cross-site Scripting (XSS)&nbsp;</h3>
+
+
+
+<p>Serangan ini&nbsp; memanfaatkan website yang tingkat keamanannya lemah sebagai sarana untuk mendapatkan data pengunjung..</p>
+
+
+
+<p>Hacker lalu memasukkan skrip tertentu dengan menggunakan<em>&nbsp;malicious Javascript</em>&nbsp;ke website. Ketika pengunjung mengunjungi website tersebut, data seperti username, password, dan data lainnya akan ditransfer ke hacker.</p>
+
+
+
+<p>Alhasil hacker bisa mendapatkan data pribadi pengunjung untuk disalahgunakan. Serangan ini tidak hanya merugikan pemilik website, tetapi juga pengunjung website.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">6. SQL Injection&nbsp;</h3>
+
+
+
+<p>Serangan SQL Injection merupakan serangan yang juga banyak dilakukan oleh para hacker. Serangan jenis ini menyerang database server untuk mencuri informasi username dan password, mengubah database, dan memasukkan konten berbahaya.&nbsp;</p>
+
+
+
+<p>Cara kerja serangan ini, yaitu dengan memanfaatkan celah keamanan dan memasukkan perintah SQL ke dalam database server.&nbsp;<a href="https://www.niagahoster.co.id/blog/apa-itu-query-sql/" target="_blank" rel="noreferrer noopener">SQL</a>&nbsp;sendiri merupakan bahasa pemrograman yang digunakan untuk membuat dan mengolah database. Jika serangan ini berhasil, database website Anda dapat dirusak, diubah, dan disalahgunakan.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">7. Phishing</h3>
+
+
+
+<p><a href="https://www.niagahoster.co.id/blog/mengatasi-phishing/">Phising</a>&nbsp;merupakan pencurian data oleh hacker dengan cara mengelabui korbannya. Jadi, tanpa disadari korban menyerahkan datanya begitu saja secara sukarela. Data yang dicuri mulai dari data pribadi, data akun, hingga data finansial Anda.</p>
+
+
+
+<h3 class="wp-block-heading">8. Credential Reuse</h3>
+
+
+
+<p>Apakah Anda menggunakan username dan password yang sama untuk berbagai kepentingan? Jika iya, saatnya Anda mengubah semua password tersebut. Sebab, kesamaan password bisa dimanfaatkan oleh hacker.</p>
+
+
+
+<p>Jadi, Credential Reuse adalah saat hacker berusaha masuk ke akun-akun Anda yang lain setelah mendapatkan satu username dan password. Alhasil, semua akun Anda bisa dibobol hanya dari satu password saja.’</p>
+
+
+
+<h2 class="wp-block-heading">Cara Menghindari Serangan Hacker&nbsp;dalam 5 Langkah Mudah</h2>
+
+
+
+<p>Setelah mengetahui jenis serangan hacker, Anda tentu ingin melindungi website dari serangan hacker, bukan? Mungkin di benak Anda cara melindungi website sangatlah rumit. Anda harus mengetahui coding dan hal-hal teknis lainnya.&nbsp;</p>
+
+
+
+<p>Padahal, ada beberapa cara melindungi website tanpa perlu skill di bidang teknis atau bantuan developer. Berikut adalah langkah-langkah pengamanan yang bisa digunakan untuk mencegah serangan hacker. Sudah siap? Ayo kita mulai!&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Langkah #1: Install Security Plugin</h3>
+
+
+
+<p>Jika website Anda dibuat memakai CMS, menginstall plugin security merupakan cara termudah dalam melindungi website dari serangan hacker. Anda tidak perlu terlalu memahami istilah teknis atau coding untuk bisa melindungi website Anda dari serangan hacker.</p>
+
+
+
+<p>Setiap CMS biasanya memiliki pilihan plugin security yang bisa Anda gunakan. Berikut ini beberapa pilihan&nbsp;<strong>plugin security untuk WordPress.</strong></p>
+
+
+
+<ul>
+<li><strong>iThemes Security</strong></li>
+
+
+
+<li><strong>Wordfence Security&nbsp;</strong></li>
+
+
+
+<li><strong>SecuPress Free</strong></li>
+
+
+
+<li><strong>Shield Security&nbsp;</strong></li>
+
+
+
+<li><strong>Akismet&nbsp;</strong></li>
+</ul>
+
+
+
+<p>Untuk mengetahui lebih detail tentang mengenai plugin security WordPress, silakan mampir ke artikel kami tentang&nbsp;</p>
+
+
+
+<p>Kalau Anda menggunakan CMS Magento, Anda bisa menggunakan opsi&nbsp;<strong>plugin security untuk Magento</strong>&nbsp;berikut ini.&nbsp;</p>
+
+
+
+<ul>
+<li><strong>Amasty&nbsp;</strong></li>
+
+
+
+<li><strong>Watching Pro&nbsp;</strong></li>
+
+
+
+<li><strong>MageFence</strong></li>
+</ul>
+
+
+
+<p>Sementara untuk Joomla, Anda bisa pilih plugin security berikut ini.</p>
+
+
+
+<ul>
+<li><strong>JhackGuard&nbsp;</strong></li>
+
+
+
+<li><strong>JomDefender&nbsp;</strong></li>
+
+
+
+<li><strong>RSFirewall</strong></li>
+</ul>
+
+
+
+<p>Dari daftar plugin di atas, setiap plugin memiliki keunggulan fiturnya masing-masing. Namun, setiap plugin memiliki fitur dasar untuk mengamankan website. Misalnya, login security, mendeteksi malware, mengecek kekuatan password, memblokir IP, dan firewall.&nbsp;</p>
+
+
+
+<p>Plugin-plugin yang tersedia dalam versi gratis dan berbayar. Jadi, Anda bisa memilih plugin mana yang sesuai dengan budget Anda.&nbsp;</p>
+
+
+
+<p><strong>Baca juga:&nbsp;<a href="https://www.niagahoster.co.id/blog/masalah-keamanan-website/" target="_blank" rel="noreferrer noopener">Hindari Masalah Keamanan Website WordPress dengan Satu Solusi Jitu!</a></strong></p>
+
+
+
+<h3 class="wp-block-heading">Langkah #2: Gunakan HTTPS&nbsp;</h3>
+
+
+
+<p>Apa&nbsp;<a href="https://www.niagahoster.co.id/blog/perbedaan-http-dan-https/" target="_blank" rel="noreferrer noopener">perbedaan HTTP dan HTTPS</a>? Ternyata penambahan satu huruf ‘S’ itu ternyata sangat menentukan apakah sebuah website cukup aman untuk bertransaksi di dalamnya.&nbsp;</p>
+
+
+
+<p>Jika website Anda masih berupa HTTP, data Anda akan sangat rawan disalahgunakan. Transaksi yang terjadi di dalam website pun rawan disadap dan dicuri. Oleh sebab itu penting sekali mengupgrade website Anda menjadi HTTPS.&nbsp;</p>
+
+
+
+<p>Untuk mengubah website Anda menjadi HTTPS, Anda perlu memasang Sertifikat SSL&nbsp;<em>(Secure Socket Layer).&nbsp;</em>&nbsp;<a href="https://www.niagahoster.co.id/blog/apa-itu-ssl/" target="_blank" rel="noreferrer noopener">SSL adalah</a>&nbsp;metode yang akan mengamankan pertukaran data yang terjadi di website Anda.&nbsp;</p>
+
+
+
+<p>Selain berfungsi mengamankan data website, sertifikat SSL juga dapat meningkatkan peringkat website di mesin pencari Google. Google cenderung lebih menyukai website yang telah bersertifikat SSL. Google bahkan “melarang” pengunjung untuk mengunjungi website yang tak punya sertifikat SSL.&nbsp;</p>
+
+
+
+<p>Jadi, sertifikat SSL adalah media yang ampuh untuk menangkal hacker. Perlu diketahui juga bahwa terdapat SSL berbayar dan SSL Gratis.</p>
+
+
+
+<h3 class="wp-block-heading">Langkah #3: Selalu Perbaharui Platform dan Software Anda</h3>
+
+
+
+<p>Menggunakan CMS dengan berbagai plugin memang memberi banyak keuntungan. Namun, jika Anda malas memperbarui platform dan plugin, website Anda bisa rentan terhadap serangan-serangan hacker.&nbsp;</p>
+
+
+
+<p>Kenapa? Hal itu karena ada banyak platform dan plugin yang open source sehingga para hacker dapat mudah mengakses source code-nya. Sehingga mereka dapat mencari kelemahan website Anda dengan mudah.&nbsp;</p>
+
+
+
+<p>Oleh sebab itu, pastikan CMS, plugin, ataupun skrip yang Anda install selalu diupdate ke versi terbaru. Jika Anda menggunakan WordPress, Anda bisa memeriksa apakah ada plugin yang perlu diupdate. Caranya, cukup klik menu&nbsp;<strong>Updates&nbsp;</strong>di dashboard Anda.&nbsp;&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Langkah #4: Buat Password yang Kuat&nbsp;</h3>
+
+
+
+<p>Langkah ini mungkin kelihatannya sederhana, tapi langkah ini sangatlah penting. Jika Anda membuat password yang mudah ditebak, sama saja artinya Anda mengizinkan hacker meretas website Anda.&nbsp;</p>
+
+
+
+<p>Oleh sebab itu, hindari penggunaan password yang&nbsp;<em>mainstream</em>&nbsp;seperti ‘123456’. Hindari jua membuat password yang mudah ditebak seperti tanggal lahir atau nama diri. Jika gunakanlah campuran huruf, angka dan karakter yang tidak beraturan.&nbsp;</p>
+
+
+
+<p>Jika Anda menggunakan WordPress, Anda bisa mengganti password dengan cara klik menu&nbsp;<strong>Users &gt; Your Profile</strong>. Kemudian cari dan klik tombol&nbsp;<strong>Generate Password.&nbsp;</strong>Anda akan secara otomatis mendapatkan password baru. Anda juga bisa menggantinya jika tidak menyukainya. Namun pastikan Anda membuat password yang lebih kuat dengan kombinasi huruf, angka, dan karakter.</p>
+
+
+
+<h3 class="wp-block-heading">Langkah #5: Backup Otomatis Website Anda</h3>
+
+
+
+<p>Kalau pada akhirnya website Anda terkena serangan hacker, langkah ini bisa jadi penyelamatnya. Dengan memiliki backup, setidaknya Anda bisa memulihkan website Anda dengan lebih mudah.&nbsp;</p>
+
+
+
+<p>Jadi, mulailah membiasakan diri melakukan backup data Anda baik secara manual maupun otomatis. WordPress juga telah menyediakan plugin backup yang akan membantu Anda membackup data. Simak rekomendasi plugin backup WordPress dari kami di artikel</p>
+
+
+
+<h2 class="wp-block-heading">3+ Extra Tips untuk Melindungi Website dari Serangan Hacker</h2>
+
+
+
+<p>Jika sebelumnya telah dibahas langkah melindungi website dengan mudah. Kami juga menyediakan tips pengamanan lanjutan supaya keamanan website Anda lebih optimal.&nbsp;</p>
+
+
+
+<p>Tanpa perlu berlama-lama, berikut adalah berbagai tips ampuh untuk menangkal hacker!</p>
+
+
+
+<h3 class="wp-block-heading">1. Memperketat Keamanan Saat Menerima File Upload di Website</h3>
+
+
+
+<p>Ada beberapa website menyediakan opsi upload file dari pengunjung website. Misalnya upload file bukti pembayaran, upload foto identitas dan foto diri. Namun, tahukah Anda bahwa opsi tersebut bisa jadi celah para hacker untuk melakukan aksinya?&nbsp;</p>
+
+
+
+<p>Berikut ini beberapa risiko keamanan yang terjadi jika website Anda menyediakan opsi upload file:</p>
+
+
+
+<ul>
+<li>File disisipi malware, exploit, atau pun script yang berbahaya bagi website dan server Anda.</li>
+
+
+
+<li>Menimpa file di server – file yang diupload dapat menimpa file di server jika keduanya mempunyai nama file dan extensi yang sama. Hal ini bisa menyebabkan website Anda tak berfungsi dan pengaturan keamanan berubah.</li>
+
+
+
+<li>File yang diupload terlalu besar dapat mengganggu server.&nbsp;</li>
+
+
+
+<li>Berpeluang terjadi serangan DoS melalui upload file.&nbsp;</li>
+</ul>
+
+
+
+<p>Nah, untuk mengurangi risiko serangan hacker pada upload file, kami merekomendasikan beberapa cara berikut ini.&nbsp;</p>
+
+
+
+<ul>
+<li><strong>Hanya izinkan jenis file tertentu</strong>&nbsp;– batasi jenis file yang boleh diupload sehingga meminimalisir file bervirus yang hendak diupload.</li>
+
+
+
+<li><strong>Scan file</strong>&nbsp;– Anda bisa download anti virus untuk memindai setiap file yang diupload di website Anda.</li>
+
+
+
+<li><strong>Tetapkan ukuran maksimal file</strong>&nbsp;– hal ini untuk menghindari serangan DoS melalui file yang diupload,&nbsp;</li>
+
+
+
+<li><strong>Ubah nama file yang telah diupload&nbsp;</strong>– hal ini dilakukan untuk mencegah hacker dapat mengakses kembali file yang diupload. Sekaligus tidak menyebabkan tumpang tindih dengan file penting di server.&nbsp;</li>
+
+
+
+<li><strong>Simpan file di luar folder root web</strong>&nbsp;– pastikan direktori tempat file yang diupload berada di luar root web, sehingga hacker tidak dapat mengakses situs web Anda melalui file tersebut.&nbsp;</li>
+</ul>
+
+
+
+<p>Dengan menerapkan langkah-langkah di atas, Anda bisa meminimalisir serangan hacker yang mungkin dilakukan melalui upload file ke website Anda.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">2. Gunakan Parameter Query&nbsp;</h3>
+
+
+
+<p>Penggunaan parameter query adalah salah satu cara untuk mencegah hacker agar mereka tidak melakukan serangan SQL injection. Seperti telah dijelaskan sebelumnya, serangan SQL Injection ini menyerang database website Anda. Serangan jenis ini juga merupakan serangan yang sering dilakukan oleh para hacker.</p>
+
+
+
+<p>Query sendiri adalah bahasa SQL yang ditampilkan dalam bentuk visual. Sementara itu, parameter query adalah query yang telah diberikan nilai parameternya. Mudahnya, prinsip langkah ini adalah membuat kode yang cukup kuat dengan query yang telah diberikan nilai parameter. Selengkapnya mengenai SQL bisa Anda baca di artikel&nbsp;</p>
+
+
+
+<p>Sehingga pengguna yang tidak mengetahui nilai parameternya tidak dapat mengakses database tersebut. Dengan parameter yang cukup spesifik juga akan mempersempit celah bagi hacker untuk menyerang database website Anda.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">3. Gunakan Content Security Policy (CSP)&nbsp;</h3>
+
+
+
+<p>Content Security Policy (CSP) adalah pengaturan tambahan yang diterapkan melalui respons HTTP Header. Pengaturan ini dapat membantu Anda melindungi website dari serangan XSS maupun serangan melalui kode injeksi lainnya.&nbsp;</p>
+
+
+
+<p>Dengan CSP, Anda bisa mengatur domain mana saja yang diizinkan untuk dimuat di server Anda. Sehingga, jika hacker mencoba menyisipkan kode berbahaya di domain tersebut, browser akan langsung memblokirnya.&nbsp;</p>
+
+
+
+<p>CSP juga telah didukung oleh semua browser yang biasa umum digunakan oleh oleh para pengguna, seperti Chrome, FireFox, Safari, Edge, dan Internet Explorer.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">4. Atur File Permission dan Kunci Direktori di cPanel</h3>
+
+
+
+<p>Semua website memiliki file dan folder yang disimpan di akun web hosting pemiliknya. Dalam file tersebut berisi script dan data-data yang membuat website Anda dapat berjalan sesuai fungsinya.&nbsp;</p>
+
+
+
+<p>Nah, masing-masing file dan folder memiliki izin yang dapat membatasi akses seseorang. Artinya, setiap file telah diatur siapa yang dapat membaca, menulis, dan mengeksekusinya.&nbsp;</p>
+
+
+
+<p>Izin akses file dapat dilihat melalui tiga kode digit angka 0-7.<strong>&nbsp;Digit pertama</strong>&nbsp;merupakan izin pemilik file.&nbsp;<strong>Digit kedua&nbsp;</strong>merupakan pihak atau orang tertentu yang diberi izin oleh pemilik file. Sementara&nbsp;<strong>digit ketiga</strong>&nbsp;adalah semua orang.&nbsp;</p>
+
+
+
+<p>Kemudian cara membaca kode angka tersebut adalah sebagai berikut.</p>
+
+
+
+<ul>
+<li>4 berarti dapat dibaca</li>
+
+
+
+<li>2 berarti dapat ditulis&nbsp;</li>
+
+
+
+<li>1 berarti dapat dieksekusi</li>
+
+
+
+<li>0 berarti tidak dapat dibaca, ditulis, dan dieksekusi&nbsp;</li>
+</ul>
+
+
+
+<p>Sebagai contoh, kode salah satu file adalah “744”. Dalam hal ini digit pertama atau pemilik file memiliki izin berupa “7” (4+2+1), artinya pemilik file dapat membaca, menulis, dan mengeksekusi file tersebut. Sementara itu, pihak tertentu dan orang lain pada umumnya hanya diberi izin untuk membaca.&nbsp;</p>
+
+
+
+<p>Sebenarnya, ketika suatu file pertama kali dibuat, pengaturan izin sudah secara otomatis diatur ke mode default. Pengguna tak perlu lagi melakukan pengaturan izin pada setiap file.&nbsp;<strong>Namun,&nbsp;</strong>ada kalanya Anda membutuhkan perubahan file permission, seperti ketika ada update terbaru atau instalasi.&nbsp;</p>
+
+
+
+<p>Perlu diingat pula, jika Anda salah mengatur file permission, website Anda bisa rentan terhadap serangan hacker. Jadi, pastikan file penting Anda tidak diatur dengan kode “777”. Nah, Berikut ini cara untuk mengubah pengaturan file permission:&nbsp;</p>
+
+
+
+<ul>
+<li>Login ke cPanel atau program FTP&nbsp;&nbsp;</li>
+
+
+
+<li>Pilih menu&nbsp;<strong>File Manager &gt; pilih file yang Anda ingin atur file permissionnya</strong></li>
+
+
+
+<li>Klik kanan pada file lalu pilih&nbsp;<strong>Change Permission</strong></li>
+
+
+
+<li>Centang pilihan permission file tersebut&nbsp;</li>
+
+
+
+<li>Setelah mengatur file permission, klik tombol&nbsp;<strong>Change Permission</strong></li>
+</ul>
+
+
+
+<p>Setelah mengatur file permission setiap file, Anda juga bisa menambahkan password pada folder atau direktori akun web hosting Anda. Untuk lebih detailnya, silakan baca panduan kami di artikel&nbsp;</p>
+
+
+
+<p>Anda sudah belajar bahwa hacker adalah suatu ancaman bagi website yang memiliki sistem keamanan lemah.</p>
+
+
+
+<p>Serangan hacker pun banyak jenisnya. Untuk itu, lakukan perlindungan website seoptimal mungkin, mulai dari cara perlindungan umum hingga perlindungan lanjutan.&nbsp;</p>
+
+
+
+<p>Untuk mengetahui caranya, kami telah menyediakan panduannya. Silakan mampir di artikel kami berikut ini</p>
+
+
+
+<p>Oh ya, jika Anda ingin mendalami cara meningkatkan keamanan website Anda, kami juga mempunyai ebook gratis yang bisa Anda baca. Langsung saja klik gambar di bawah ini.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zaa0v0.github.io/dorimos/2023/10/20/apa-itu-hacker-berikut-adalah-definisi-jenis-dan-cara-menghindarinya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cara Membicarakan Bullying dengan Anak Anda</title>
+		<link>https://zaa0v0.github.io/dorimos/2023/10/20/cara-membicarakan-bullying-dengan-anak-anda/</link>
+					<comments>https://zaa0v0.github.io/dorimos/2023/10/20/cara-membicarakan-bullying-dengan-anak-anda/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 03:31:05 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zaa0v0.github.io/dorimos/?p=10</guid>
+
+					<description><![CDATA[Tips untuk orang tua Sangat memilukan melihat anak Anda mengalami rasa sakit fisik dan emosional dari&#160;bullying&#160;secara langsung atau&#160;cyberbullying&#160;(yang diterima saat online). Beberapa orang tua tidak yakin bagaimana cara untuk memulai melindungi anak-anak mereka dari&#160;bullying&#160;dan kekerasan lainnya. Bahkan, beberapa orang tua mungkin tidak tahu apakah anak-anak mereka adalah korban, saksi, atau bahkan pelaku dari perbuatan berbahaya [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1280" height="603" src="https://zaa0v0.github.io/dorimos/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-10-at-11.22.13.jpeg" alt="" class="wp-image-11"/></figure>
+
+
+
+<h3 class="wp-block-heading has-text-align-center"><strong><em>Tips untuk orang tua</em></strong><em></em></h3>
+
+
+
+<p>Sangat memilukan melihat anak Anda mengalami rasa sakit fisik dan emosional dari&nbsp;<em>bullying&nbsp;</em>secara langsung atau&nbsp;<em>cyberbullying</em>&nbsp;(yang diterima saat online).</p>
+
+
+
+<p class="has-text-align-left">Beberapa orang tua tidak yakin bagaimana cara untuk memulai melindungi anak-anak mereka dari&nbsp;<em>bullying</em>&nbsp;dan kekerasan lainnya. Bahkan, beberapa orang tua mungkin tidak tahu apakah anak-anak mereka adalah korban, saksi, atau bahkan pelaku dari perbuatan berbahaya ini.</p>
+
+
+
+<p>Berikut adalah beberapa tips tentang cara memulai percakapan dengan anak-anak Anda:</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Memahami dasar-dasarnya</strong></h2>
+
+
+
+<h5 class="wp-block-heading"><strong>Apa itu bullying?</strong></h5>
+
+
+
+<p>Anda biasanya dapat mengidentifikasi&nbsp;<em>bullying</em>&nbsp;melalui tiga karakteristik berikut: disengaja (untuk menyakiti), terjadi secara berulang-ulang, dan ada perbedaan kekuasaan. Seorang pelaku&nbsp;<em>bullying</em>&nbsp;<strong>memang bermaksud</strong>&nbsp;menyebabkan rasa sakit pada korbannya, baik menyakiti fisik atau kata-kata atau perilaku yang menyakitkan, dan&nbsp;<strong>melakukannya berulang kali</strong>. Anak laki-laki lebih mungkin mengalami&nbsp;<em>bullying</em>&nbsp;fisik, sedangkan anak perempuan lebih mungkin mengalami&nbsp;<em>bullying&nbsp;</em>secara psikologis, walaupun jenis keduanya tentu cenderung saling berhubungan.</p>
+
+
+
+<p>Bullying adalah&nbsp;<strong>pola perilaku</strong>, bukan insiden yang terjadi sekali-kali. Anak-anak yang melakukan&nbsp;<em>bullying</em>&nbsp;biasanya berasal dari status sosial atau&nbsp;<strong>posisi kekuasaan</strong>&nbsp;yang lebih tinggi, seperti anak-anak yang lebih besar, lebih kuat, atau dianggap populer sehingga dapat menyalahgunakan posisinya.</p>
+
+
+
+<p>Anak-anak yang paling rentan menghadapi risiko lebih tinggi untuk di-<em>bully</em>&nbsp;seringkali adalah anak-anak yang berasal dari masyarakat yang terpinggirkan, anak-anak dari keluarga berpenghasilan rendah, anak-anak dengan penampilan atau ukuran tubuh yang berbeda, anak-anak penyandang disabilitas, atau anak-anak migran dan pengungsi.</p>
+
+
+
+<p><em>Bullying</em>&nbsp;dapat terjadi baik secara langsung atau online.&nbsp;<em>Cyberbullying</em>&nbsp;sering terjadi melalui media sosial, SMS / teks atau pesan instan, email, atau platform online tempat anak-anak berinteraksi. Orang tua mungkin tidak selalu mengikuti apa yang dilakukan anak-anak mereka di platform ini, sehingga sulit untuk mengetahui kapan anak sedang terpengaruh.</p>
+
+
+
+<h5 class="wp-block-heading"><strong>Mengapa saya harus turun tangan jika anak saya di-<em>bully</em>?</strong></h5>
+
+
+
+<p><em>Bullying</em>&nbsp;dapat menimbulkan dampak yang berbahaya dan jangka panjang bagi anak-anak. Selain efek fisik dari&nbsp;<em>bullying</em>, anak-anak dapat mengalami masalah kesehatan mental dan emosional, termasuk depresi dan kecemasan, yang dapat menyebabkan penyalahgunaan narkoba dan penurunan prestasi di sekolah. Tidak seperti&nbsp;<em>bullying&nbsp;</em>secara langsung,&nbsp;<em>cyberbullying</em>&nbsp;dapat menjangkau korban di mana saja, kapan saja. Hal ini dapat menyebabkan bahaya besar, karena dapat dengan cepat menjangkau khalayak luas dan meninggalkan jejak permanen secara online untuk semua yang terlibat di dalamnya.</p>
+
+
+
+<p>Anak anda memiliki hak atas lingkungan sekolah yang aman dan asri yang menghargai harkat martabat mereka. Konvensi Hak-Hak Anak menyatakan bahwa semua anak memiliki hak atas pendidikan, dan perlindungan dari semua bentuk kekerasan fisik, mental, kerusakan, atau perlakuan salah.&nbsp;<em>Bullying</em>&nbsp;harus dihentikan.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Dimulai dengan pencegahan</strong></h2>
+
+
+
+<h5 class="wp-block-heading"><strong>Bagaimana saya bisa membantu mencegah bullying di sekolah anak saya?</strong></h5>
+
+
+
+<p>Langkah pertama untuk menjaga keamanan anak Anda, baik secara langsung atau online, adalah memastikan mereka mengetahui masalahnya.</p>
+
+
+
+<ol type="1">
+<li><strong>Ajari anak-anak Anda tentang&nbsp;</strong><em><strong>bullying</strong></em><strong>.</strong>&nbsp;Begitu mereka tahu apa itu bullying, anak-anak Anda akan dapat mengidentifikasinya dengan lebih mudah, apakah itu terjadi pada mereka atau orang lain.</li>
+
+
+
+<li><strong>Bicaralah secara terbuka dan sering kepada anak-anak Anda.&nbsp;</strong>Semakin sering Anda berbicara dengan anak-anak Anda tentang&nbsp;<em>bullying</em>, semakin nyaman mereka memberi tahu Anda jika mereka melihat atau mengalaminya. Periksa anak-anak Anda setiap hari dan tanyakan tentang waktu mereka di sekolah dan aktivitas mereka secara online, menanyakan tidak hanya tentang kelas dan kegiatan mereka, tetapi juga tentang perasaan mereka.</li>
+
+
+
+<li><strong>Bantu anak Anda agar menjadi panutan yang positif.</strong>&nbsp;Ada tiga pihak yang terlibat dalam&nbsp;<em>bullying</em>: korban, pelaku, dan saksi. Bahkan jika anak-anak bukan korban&nbsp;<em>bullying</em>, mereka dapat mencegah&nbsp;<em>bullying</em>&nbsp;dengan bersikap positif, hormat, dan baik kepada teman sebayanya. Jika mereka menyaksikan&nbsp;<em>bullying</em>, mereka dapat membela korban, menawarkan dukungan, dan atau mempertanyakan perilaku&nbsp;<em>bullying&nbsp;</em>yang terjadi.</li>
+
+
+
+<li><strong>Membantu membangun kepercayaan diri anak Anda.</strong>&nbsp;Dorong anak Anda untuk mengikuti kelas atau bergabung dengan kegiatan yang ia sukai di lingkungan Anda atau di sekolahnya. Ini juga akan membantu membangun kepercayaan diri serta menambah teman dengan minat yang sama.</li>
+
+
+
+<li><strong>Jadilah teladan.</strong>&nbsp;Tunjukkan pada anak Anda bagaimana memperlakukan anak-anak lain dan orang dewasa dengan kebaikan dan rasa hormat, serta melakukan hal yang sama kepada orang-orang di sekitar Anda, termasuk cobalah membela ketika orang lain diperlakukan dengan tidak baik. Anak-anak melihat orang tua mereka sebagai contoh bagaimana cara berperilaku, termasuk memposting secara online.</li>
+
+
+
+<li><strong>Jadilah bagian dari pengalaman online mereka.</strong>&nbsp;Biasakan diri Anda dengan platform yang digunakan anak Anda, jelaskan kepada anak Anda bagaimana dunia online dan dunia offline terhubung, dan peringatkan mereka tentang berbagai risiko yang akan mereka hadapi secara online.</li>
+</ol>
+
+
+
+<h5 class="wp-block-heading"><strong>Saya tidak yakin apakah anak saya di-<em>bully</em>. Tanda-tanda apa yang harus saya perhatikan?</strong></h5>
+
+
+
+<ul>
+<li><strong>Perhatikan baik-baik.</strong> Amati keadaan emosi anak Anda, karena beberapa anak mungkin tidak mengungkapkan kekhawatiran mereka secara lisan. Tanda-tanda yang harus diwaspadai antara lain:
+<ul>
+<li>Tanda fisik seperti memar yang tidak dapat dijelaskan, goresan, patah tulang dan luka dalam penyembuhan.</li>
+
+
+
+<li>Takut pergi ke sekolah atau mengikuti acara sekolah.</li>
+
+
+
+<li>Menjadi cemas, gelisah, atau sangat waspada.</li>
+
+
+
+<li>Memiliki beberapa teman di sekolah atau di luar sekolah. Kehilangan teman secara tiba-tiba atau menghindari situasi sosial</li>
+
+
+
+<li>Pakaian, alat elektronik, atau barang-barang pribadi lainnya hilang atau hancur</li>
+
+
+
+<li>Seringkali meminta uang untuk alasan yang mungkin kurang jelas atau mencurigakan</li>
+
+
+
+<li>Prestasi yang rendah</li>
+
+
+
+<li>Ketidakhadiran, bolos, atau menelepon dari sekolah meminta pulang</li>
+
+
+
+<li>Mencoba terus menerus ingin dekat orang dewasa</li>
+
+
+
+<li>Tidak tidur nyenyak dan mungkin mengalami mimpi buruk</li>
+
+
+
+<li>Mengeluh sakit kepala, sakit perut atau penyakit fisik lainnya</li>
+
+
+
+<li>Sering tertekan setelah menghabiskan waktu online atau memainkan telepon genggam atau komputer (tanpa penjelasan yang masuk akal)</li>
+
+
+
+<li>Menjadi sangat rahasia, terutama dalam hal aktivitas online</li>
+
+
+
+<li>Menjadi agresif atau memiliki ledakan kemarahan yang tiba-tiba</li>
+</ul>
+</li>
+
+
+
+<li><strong>Bicaralah secara terbuka</strong>. Bicaralah dengan anak Anda tentang apa yang mereka anggap sebagai perilaku baik dan buruk di sekolah, di lingkungan sekitar dan online. Penting untuk memiliki komunikasi terbuka sehingga anak-anak Anda akan merasa nyaman memberi tahu Anda tentang apa yang terjadi dalam hidup mereka.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><strong>Menanggapi bullying</strong></h2>
+
+
+
+<h5 class="wp-block-heading"><strong>Apa yang harus saya lakukan jika anak saya di-<em>bully</em>&nbsp;atau diancam?</strong></h5>
+
+
+
+<p>Jika Anda tahu anak Anda di-<em>bully</em>, ada beberapa langkah yang dapat Anda ambil untuk membantu mereka:</p>
+
+
+
+<ol type="1">
+<li><strong>Dengarkan anak Anda secara terbuka dan tenang</strong>. Berfokuslah untuk membuat mereka merasa didengar dan didukung, alih-alih mencoba menemukan penyebab <em>bullying</em> atau mencoba menyelesaikan masalah. Pastikan mereka tahu bahwa itu bukan kesalahan mereka.<ol><li><strong>Beri tahu anak bahwa Anda mempercayai mereka</strong>; bahwa Anda senang mereka memberi tahu Anda; bahwa itu bukan kesalahan mereka; Anda akan melakukan yang terbaik untuk mendapatkan bantuan.</li></ol><ol><li><strong>Bicaralah dengan guru atau pihak sekolah</strong>. Anda dan anak Anda tidak harus menghadapi&nbsp;<em>bullying</em>&nbsp;sendirian. Tanyakan apakah sekolah Anda memiliki kebijakan atau panduan mengenai perilaku&nbsp;<em>bullying</em>. Ini mungkin berlaku untuk&nbsp;<em>bullying&nbsp;</em>secara langsung dan online.</li></ol>
+<ol>
+<li><strong>Jadilah sistem pendukung</strong>. Untuk anak Anda, memiliki orang tua yang suportif sangat penting untuk menghadapi efek&nbsp;<em>bullying</em>. Pastikan mereka tahu bahwa ia dapat berbicara dengan Anda kapan saja dan meyakinkannya bahwa semuanya akan menjadi lebih baik.</li>
+</ol>
+</li>
+</ol>
+
+
+
+<h5 class="wp-block-heading"><strong>Apa yang bisa saya lakukan jika anak saya melakukan&nbsp;<em>bullying&nbsp;</em>kepada orang lain?</strong></h5>
+
+
+
+<p>Jika Anda pikir atau tahu bahwa anak Anda sedang melakukan&nbsp;<em>bullying&nbsp;</em>kepada anak-anak lain, penting untuk diingat bahwa mereka pada dasarnya tidak jahat, tetapi mungkin bertindak karena sejumlah alasan. Anak-anak yang sering melakukan&nbsp;<em>bullying</em>&nbsp;hanya ingin menyesuaikan diri, membutuhkan perhatian atau hanya mencari tahu bagaimana menghadapi emosi yang rumit. Dalam beberapa kasus, pelaku&nbsp;<em>bullying</em>&nbsp;sendiri adalah korban atau saksi kekerasan di rumah atau di lingkungan mereka. Ada beberapa langkah yang harus Anda ambil untuk membantu anak Anda menghentikan&nbsp;<em>bullying</em>:</p>
+
+
+
+<ol type="1">
+<li><strong>Komunikasikan</strong>. Memahami mengapa anak Anda bertingkah akan membantu Anda tahu bagaimana membantu mereka. Apakah mereka merasa tidak aman di sekolah? Apakah mereka berkelahi dengan teman atau saudara? Jika mereka kesulitan menjelaskan perilaku mereka, Anda dapat memilih untuk berkonsultasi dengan seorang konselor, pekerja sosial, atau profesional kesehatan mental yang dilatih untuk bekerja dengan anak-anak.</li>
+
+
+
+<li><strong>Menyelesaikan masalah dengan cara-cara yang sehat dan baik</strong>. Minta anak Anda untuk menjelaskan skenario yang membuat mereka frustrasi, dan tawarkan cara-cara bereaksi yang konstruktif. Gunakan latihan ini untuk bertukar pikiran tentang kemungkinan skenario di masa depan dengan merespon secara baik. Dorong anak Anda untuk &#8220;menempatkan diri pada posisi orang lain&#8221; dengan membayangkan pengalaman orang yang di-<em>bully</em>. Ingatkan anak Anda bahwa komentar yang dibuat secara online bisa terasa sangat menyakitkan seperti di dunia nyata.</li>
+
+
+
+<li><strong>Berkaca pada diri sendiri</strong>. Anak-anak yang melakukan&nbsp;<em>bullying</em>&nbsp;seringkali meniru apa yang mereka lihat di rumah. Apakah mereka terpapar perilaku berbahaya secara fisik atau emosional dari Anda atau pengasuh lain? Lihatlah pada diri sendiri sebagai orang tua dan pikirkan dengan jujur ​​tentang bagaimana Anda memperlakukan anak Anda.</li>
+
+
+
+<li><strong>Berikan konsekuensi dan peluang untuk menebus kesalahan</strong>. Jika Anda mengetahui bahwa anak Anda telah melakukan&nbsp;<em>bullying</em>, penting untuk memberikan konsekuensi yang tepat dan tanpa kekerasan. Misalnya bisa dengan membatasi aktivitas mereka, terutama kegiatan yang mendorong&nbsp;<em>bullying</em>&nbsp;(berkumpul bersama teman ‘geng’nya, waktu bermain media sosial atau online). Dorong anak Anda untuk meminta maaf kepada teman-temannya dan mencari cara agar mereka lebih positif di masa depan.</li>
+</ol>
+
+
+
+<p class="has-text-align-center"><strong>Mari bertindak</strong></p>
+
+
+
+<p class="has-text-align-center">Selain menjadi sistem pendukung untuk anak Anda, Anda dapat bekerja sama dengan sekolah Anda dan bahkan pembuat keputusan lokal atau nasional dan pemimpin daerah Anda untuk mengubah kebijakan agar dapat mencegah dan mengatasi&nbsp;<em>bullying</em>!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zaa0v0.github.io/dorimos/2023/10/20/cara-membicarakan-bullying-dengan-anak-anda/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mengenal Artificial Intelligence (AI): Pengertian, Sejarah, Kegunaan, dan Contoh Penerapannya</title>
+		<link>https://zaa0v0.github.io/dorimos/2023/10/20/mengenal-artificial-intelligence-ai-pengertian-sejarah-kegunaan-dan-contoh-penerapannya/</link>
+					<comments>https://zaa0v0.github.io/dorimos/2023/10/20/mengenal-artificial-intelligence-ai-pengertian-sejarah-kegunaan-dan-contoh-penerapannya/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 03:24:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zaa0v0.github.io/dorimos/?p=6</guid>
+
+					<description><![CDATA[Dunia teknologi semakin berkembang pesat, dan salah satu inovasi paling menarik yang telah merevolusi cara kita hidup adalah Artificial Intelligence atau AI. Teknologi ini telah menjadi pilar penting dalam berbagai bidang, membawa dampak besar dalam cara kita bekerja, berinteraksi, dan mengambil keputusan. Dalam artikel ini, kita akan menjelajahi apa itu AI, bagaimana sejarahnya berkembang, jenis-jenisnya, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="750" height="375" src="https://zaa0v0.github.io/dorimos/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-09-at-13.06.22-1.jpeg" alt="" class="wp-image-8"/></figure>
+
+
+
+<p>Dunia teknologi semakin berkembang pesat, dan salah satu inovasi paling menarik yang telah merevolusi cara kita hidup adalah Artificial Intelligence atau AI. Teknologi ini telah menjadi pilar penting dalam berbagai bidang, membawa dampak besar dalam cara kita bekerja, berinteraksi, dan mengambil keputusan. Dalam artikel ini, kita akan menjelajahi apa itu AI, bagaimana sejarahnya berkembang, jenis-jenisnya, manfaatnya dalam berbagai aspek kehidupan, serta kelebihan dan kekurangannya.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Pengertian AI</strong></h3>
+
+
+
+<p>Artificial Intelligence (AI) merujuk pada kemampuan mesin untuk meniru atau meniru kecerdasan manusia. Ini mencakup berbagai teknik dan metode yang memungkinkan komputer untuk memahami, belajar, dan mengambil keputusan berdasarkan data yang diberikan.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Jenis-jenis AI</strong></h3>
+
+
+
+<p>Ada beberapa jenis AI berdasarkan kemampuan dan fungsinya:</p>
+
+
+
+<h4 class="wp-block-heading">1.&nbsp;&nbsp;&nbsp;&nbsp; <strong>AI Lemah (Weak AI): AI yang hanya memiliki kemampuan terbatas untuk melakukan tugas tertentu, seperti asisten virtual seperti Siri atau Google Assistant.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>2.&nbsp;&nbsp;&nbsp; </strong><strong>AI Kuat (Strong AI): AI yang memiliki kemampuan yang mendekati atau setara dengan kecerdasan manusia. Saat ini, masih dalam tahap pengembangan.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>3.&nbsp;&nbsp;&nbsp; </strong><strong>AI Narrow (AI Sempit): AI yang dirancang untuk menyelesaikan tugas-tugas spesifik, seperti bermain catur atau mengenali wajah dalam foto.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>4.&nbsp;&nbsp;&nbsp; </strong><strong>AI Broad (AI Luas): AI yang dirancang untuk melakukan berbagai tugas dan belajar dari pengalaman, seperti mobil otonom.</strong></h4>
+
+
+
+<h3 class="wp-block-heading"><strong>Kegunaan AI</strong></h3>
+
+
+
+<p>AI telah menciptakan dampak besar dalam banyak aspek kehidupan, termasuk:</p>
+
+
+
+<h4 class="wp-block-heading">1.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Kesehatan: Diagnostik medis yang lebih akurat dan pengembangan obat lebih cepat.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>2.&nbsp;&nbsp;&nbsp; </strong><strong>Transportasi: Mobil otonom yang berpotensi mengurangi kecelakaan lalu lintas dan kemacetan.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>3.&nbsp;&nbsp;&nbsp; </strong><strong>Keuangan: Analisis data yang canggih untuk prediksi pasar dan deteksi kecurangan.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>4.&nbsp;&nbsp;&nbsp; </strong><strong>Industri Manufaktur: Pengoptimalan proses produksi dan pemeliharaan peralatan.</strong></h4>
+
+
+
+<h4 class="wp-block-heading"><strong>5.&nbsp;&nbsp;&nbsp; </strong><strong>Hiburan: Rekomendasi konten yang disesuaikan dan pembuatan efek visual yang realistis.</strong></h4>
+
+
+
+<h3 class="wp-block-heading"><strong>Kelebihan &amp; Kekurangan AI</strong></h3>
+
+
+
+<p>Kelebihan AI meliputi kemampuannya untuk memproses dan menganalisis data dalam skala besar, melakukan tugas berulang dengan presisi, dan bekerja dalam kondisi yang berbahaya atau tidak cocok untuk manusia. Namun, beberapa kekurangan termasuk kurangnya pemahaman emosi dan konteks, serta potensi pengangguran akibat otomatisasi pekerjaan.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Manfaat untuk Berbagai Bidang</strong></h3>
+
+
+
+<p>AI telah memberikan manfaat luar biasa dalam berbagai bidang. Di kesehatan, AI membantu dalam penelitian obat, analisis gambar medis, dan diagnosis penyakit. Di industri otomotif, mobil otonom berpotensi mengurangi kecelakaan dan kemacetan. Di bidang pendidikan, AI dapat memberikan pengajaran yang personal dan adaptif kepada setiap siswa.</p>
+
+
+
+<h3 class="wp-block-heading"><strong>Contoh Penerapan</strong></h3>
+
+
+
+<p>Penerapan AI bisa ditemukan di mana-mana. Siri dan Alexa adalah asisten virtual yang memanfaatkan AI untuk merespons permintaan pengguna. Teknologi pengenalan wajah digunakan dalam keamanan dan identifikasi. Mobil otonom dari Tesla mengandalkan AI untuk mengemudi tanpa campur tangan manusia.</p>
+
+
+
+<p>Kesimpulannya, AI telah membuka pintu menuju masa depan yang lebih canggih dan inovatif. Teknologi ini terus berkembang dan memiliki potensi untuk merubah cara kita hidup dan bekerja secara fundamental. Dengan pemahaman yang lebih baik tentang AI, kita dapat lebih siap menghadapi tantangan dan peluang yang dihadirkannya.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zaa0v0.github.io/dorimos/2023/10/20/mengenal-artificial-intelligence-ai-pengertian-sejarah-kegunaan-dan-contoh-penerapannya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://zaa0v0.github.io/dorimos/2023/10/20/hello-world/</link>
+					<comments>https://zaa0v0.github.io/dorimos/2023/10/20/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2023 03:19:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zaa0v0.github.io/dorimos/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://zaa0v0.github.io/dorimos/2023/10/20/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
